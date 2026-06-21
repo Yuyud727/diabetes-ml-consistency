@@ -1,0 +1,13 @@
+Dataset,Model,Top-1,Top-2,Top-3
+PIDD,RF,Glucose,BMI,Age
+PIDD,XGB,Glucose,BMI,Age
+PIDD,KNN,Glucose,Age,BMI
+PIDD,SVE,Glucose,BMI,Age
+DPD,RF,HbA1c_level,blood_glucose_level,age
+DPD,XGB,HbA1c_level,blood_glucose_level,age
+DPD,KNN,HbA1c_level,age,blood_glucose_level
+DPD,SVE,HbA1c_level,blood_glucose_level,age
+Early,RF,Polyuria_Yes,Polydipsia_Yes,Gender_Male
+Early,XGB,Polydipsia_Yes,Polyuria_Yes,Gender_Male
+Early,KNN,Polydipsia_Yes,Polyuria_Yes,Gender_Male
+Early,SVE,Polyuria_Yes,Polydipsia_Yes,Gender_Male

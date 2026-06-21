@@ -1,0 +1,5 @@
+Model,PIDD-DPD,PIDD-Early,DPD-Early,n_pairs_overlap,Konsisten (overlap>=2/3)
+RF,0,0,0,0,Tidak
+XGB,0,0,0,0,Tidak
+KNN,0,0,0,0,Tidak
+SVE,0,0,0,0,Tidak

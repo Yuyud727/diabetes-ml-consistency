@@ -1,0 +1,5 @@
+Model,Performa,Ranking,Eksplanasi,Konsisten
+RF,Gagal,Gagal,Gagal,TIDAK
+XGB,Gagal,Gagal,Gagal,TIDAK
+KNN,Gagal,Gagal,Gagal,TIDAK
+SVE,Gagal,Gagal,Gagal,TIDAK

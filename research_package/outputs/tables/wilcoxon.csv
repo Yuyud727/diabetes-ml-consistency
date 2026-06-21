@@ -1,0 +1,13 @@
+Model,Dataset Pair,statistic,p_value,Signifikan (p<0.05)
+RF,PIDD-DPD,0.0,0.002,Ya
+RF,PIDD-Early,0.0,0.002,Ya
+RF,DPD-Early,0.0,0.002,Ya
+XGB,PIDD-DPD,0.0,0.002,Ya
+XGB,PIDD-Early,0.0,0.002,Ya
+XGB,DPD-Early,0.0,0.002,Ya
+KNN,PIDD-DPD,0.0,0.002,Ya
+KNN,PIDD-Early,0.0,0.002,Ya
+KNN,DPD-Early,0.0,0.002,Ya
+SVE,PIDD-DPD,0.0,0.002,Ya
+SVE,PIDD-Early,0.0,0.002,Ya
+SVE,DPD-Early,0.0,0.002,Ya

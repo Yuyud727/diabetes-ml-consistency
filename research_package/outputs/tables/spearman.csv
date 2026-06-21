@@ -1,0 +1,4 @@
+Pair,spearman_rho,p_value,Konsisten (rho>=0.8)
+PIDD-DPD,-0.8,0.2,Tidak
+PIDD-Early,-0.6,0.4,Tidak
+DPD-Early,0.8,0.2,Tidak
